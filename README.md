@@ -15,7 +15,7 @@ I'm a passionate software developer who loves creating innovative solutions and 
 - Don't forget it
 - Becareful
 - Mistake make everyone better 
-
+- Make everyone happpy is a misson
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
