@@ -8,12 +8,13 @@
 
 I'm a passionate software developer who loves creating innovative solutions and learning new technologies. Welcome to my GitHub profile where I share my projects, contribute to open source, and document my coding journey.
 
-- 🔭 I'm currently working on exciting projects and expanding my skillset
-- 🌱 I'm continuously learning and exploring new technologies
-- 👯 I'm open to collaborating on interesting projects
-- 💬 Ask me about programming, technology, or any of my projects
-- 📫 Feel free to reach out if you want to connect or collaborate
-- ⚡ Fun fact: I believe in writing clean, maintainable code
+- Every problem can be slove but how long ?
+- Trying to do better !
+- Today tommorow & future
+- Just find a good ways to see & slove problem
+- Don't forget it
+- Becareful
+- Mistake make everyone better 
 
 ## 🛠️ Technologies & Tools
 
