@@ -35,17 +35,6 @@ None
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
-## 📊 GitHub Statistics
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tienanh4869&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tienanh4869&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
 
 ## 📈 Activity Graph
 <div align="center">
