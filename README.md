@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate software developer who loves creating innovative solutions and learning new technologies. Welcome to my GitHub profile where I share my projects, contribute to open source, and document my coding journey.
+I'm a university student who want to become software developer in future i love learning new technologies. Welcome to my GitHub profile where I share my projects, contribute to open source, and document my coding journey 😃.
 
 - Every problem can be slove but how long ?
 - Trying to do better !
