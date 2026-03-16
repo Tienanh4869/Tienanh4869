@@ -25,18 +25,11 @@
 
 
 
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tienanh4869&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</div>
-
 ## 🤝 Connect with Me
 
 <div align="center">
   
-
-[![X](https://img.shields.io/badge/-X-181717?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/tienanh4869)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tienanh4869@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tienanh123dd@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tienanh4869)
 
 </div>
