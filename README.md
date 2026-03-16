@@ -1,7 +1,7 @@
 # Hi there, I'm Tienanh! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile! 🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile! " alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
