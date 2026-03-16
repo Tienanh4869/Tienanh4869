@@ -5,27 +5,15 @@
 </div>
 
 ## 🚀 About Me
-
-I'm a university student who want to become software developer in future i love learning new technologies. Welcome to my GitHub profile where I share my projects, contribute to open source, and document my coding journey 😃.
-
 - Every problem can be slove but how long ?
 - Trying to do better !
 - Today tommorow & future
 - Just find a good ways to see & slove problem
 - Don't forget it
-- Becareful
+- Becareful SomeTime?
 - Mistake make everyone better 
 - Make everyone happpy is a misson
-## 🛠️ Technologies & Tools
-
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-007396?style=flat-square&logo=c++&logoColor=white)
-![C](https://img.shields.io/badge/-C-007396?style=flat-square&logo=c&logoColor=white)
-
-### Frameworks & Libraries
-None
+- Some time lazy but seem busy
 
 ### Databases & Cloud
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
