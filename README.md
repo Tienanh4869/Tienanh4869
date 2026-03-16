@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 - Every problem can be slove but how long ?
-- Trying to do better !
+- Trying to do better ? Sure ?
 - Today tommorow & future
 - Just find a good ways to see & slove problem
-- Don't forget it
-- Becareful SomeTime?
+- Don't forget it but how to Don't forget
+- Becareful but SomeTime?
 - Mistake make everyone better 
 - Make everyone happpy is a misson
 - Some time lazy but seem busy
